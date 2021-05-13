@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pytorch implementation for abstract reasoning tasks - [What Can Neural Networks Reason About?]
 
 ## File Descriptions
@@ -56,3 +57,7 @@ to generate the monster trainer dataset
 and
 	$ python main.py --model=$MODEL\_NAME --lr=$LEARNING_RATE --batch_size=$BATCH_SIZE --hidden_dim=$HIDDEN_DIMENSION --data=$DATA\_FILE.pickle --epochs=$EPOCHS --fc_output_layer=$NUMBER_OF_LAYERS_IN_OUTPUT_FC --mlp_layer=$NUMBER_OF_LAYERS_IN_GNN_AGGREGATION --aggregate=NEIGHBORHOOD_AGGREGATION_FUNCTION --n_objects=11 --n_iter=7 --subtype=15 
 to train
+=======
+# What-Can-Neural-Networks-Reason-About
+Reproduced from ICLR 2020 paper titled "What Can Neural Networks Reason About?"
+>>>>>>> b8ce70930bfbce966da5811ebdfb5c2ef45d15ba
